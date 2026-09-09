@@ -140,9 +140,11 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="exercice1.cpp" />
-    <ClCompile Include="exercice2.cpp" />
-    <ClCompile Include="exercice3.cpp" />
+    <ClCompile Include="exercice1_partie1.cpp" />
+    <ClCompile Include="exercice1_partie2.cpp" />
+    <ClCompile Include="exercice2_partie1.cpp" />
+    <ClCompile Include="exercice2_partie2.cpp" />
+    <ClCompile Include="exercice3_partie1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
