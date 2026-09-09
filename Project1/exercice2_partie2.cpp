@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main() {
-
+	 
 	char caractere[30];
 	int l = 0;
 	int count = 0;
