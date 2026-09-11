@@ -145,6 +145,7 @@
     <ClCompile Include="exercice1_partie3.cpp" />
     <ClCompile Include="exercice2_partie1.cpp" />
     <ClCompile Include="exercice2_partie2.cpp" />
+    <ClCompile Include="exercice2_partie3.cpp" />
     <ClCompile Include="exercice3_partie1.cpp" />
     <ClCompile Include="exercice3_partie2.cpp" />
   </ItemGroup>
